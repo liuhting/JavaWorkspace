@@ -1,12 +1,12 @@
 /*
 @Author:LiuHuiting
-@Date:
+@Date: 18:10 2019/7/5
 @Description: StringBuffer是线程安全的
 */
 package javaBase;
 
 public class stringBufferLesson {
-    
+
     public static  void stringBufferMethod1( ){
         StringBuffer sb= new StringBuffer("use stringbuffer");
         sb.append("yoyoyo ");
