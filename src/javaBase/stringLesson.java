@@ -1,5 +1,6 @@
 /*String类
-String 类是不可改变的，所以你一旦创建了 String 对象，那它的值就无法改变了
+@deacription: String 类是不可改变的，所以你一旦创建了 String 对象，那它的值就无法改变了
+@Date 18:10 2019/7/5
  */
 package javaBase;
 public class stringLesson {
