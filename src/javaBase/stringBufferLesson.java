@@ -6,8 +6,7 @@
 package javaBase;
 
 public class stringBufferLesson {
-
-
+    
     public static  void stringBufferMethod1( ){
         StringBuffer sb= new StringBuffer("use stringbuffer");
         sb.append("yoyoyo ");
