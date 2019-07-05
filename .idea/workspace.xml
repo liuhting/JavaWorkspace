@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af7c9a11-cc04-4ad1-ab77-13fb74ae37f1" name="Default Changelist" comment="">
+    <list default="true" id="af7c9a11-cc04-4ad1-ab77-13fb74ae37f1" name="Default Changelist" comment="math类的使用">
+      <change afterPath="$PROJECT_DIR$/src/javaBase/stringBufferLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBase/stringLesson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaBase/lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBase/lesson1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,23 +16,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/highCourse/demo1.java">
+        <entry file="file://$PROJECT_DIR$/src/javaBase/lesson1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="5" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="875">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
-                <element signature="e#85#86#0" expanded="true" />
-                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#0#507#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaBase/lesson1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaBase/charLesson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="325">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaBase/stringLesson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaBase/stringBufferLesson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#101#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,7 +75,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/highCourse/demo1.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/javaBase/lesson1.java" />
+        <option value="$PROJECT_DIR$/src/javaBase/charLesson.java" />
+        <option value="$PROJECT_DIR$/src/javaBase/stringLesson.java" />
+        <option value="$PROJECT_DIR$/src/javaBase/stringBufferLesson.java" />
       </list>
     </option>
   </component>
@@ -84,6 +111,18 @@
               <item name="JavaWorkspace-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="advancedCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWorkspace-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="highCourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advancedCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWorkspace-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaBase" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -91,9 +130,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562305965653" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562322089192" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +146,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.stringBufferLesson">
+    <configuration name="charLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBase.charLesson" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBase.lesson1" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringBufferLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBase.stringBufferLesson" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBase.stringLesson" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="JavaWorkspace" />
       <option name="VM_PARAMETERS" />
@@ -155,6 +246,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.stringBufferLesson" />
+        <item itemvalue="Application.stringLesson" />
+        <item itemvalue="Application.charLesson" />
+        <item itemvalue="Application.lesson1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -188,26 +287,47 @@
       <option name="project" value="LOCAL" />
       <updated>1562303008936</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="改文件的说明">
+      <created>1562308852779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562308852779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="math类的使用">
+      <created>1562311886635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562311886635</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Character类">
+      <created>1562313188239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562313188239</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17673522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13560411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.18034993" />
+      <window_info anchor="bottom" id="Version Control" weight="0.18034993" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,17 +342,53 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea" />
     <MESSAGE value="idea文件" />
     <MESSAGE value="idea新文件文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea新文件文件" />
+    <MESSAGE value="改文件的说明" />
+    <MESSAGE value="math类的使用" />
+    <MESSAGE value="Character类" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character类" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/highCourse/demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#85#86#0" expanded="true" />
             <element signature="e#106#107#0" expanded="true" />
@@ -242,8 +398,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaBase/lesson1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="875">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBase/charLesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBase/stringLesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaBase/stringBufferLesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#101#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
