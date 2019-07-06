@@ -32,7 +32,6 @@ public class stringLesson {
         for(char ch:chars){
             System.out.print(ch +" ");
         }
-
     }
     public  static  void main(String[] args){
 //        stringMethod1();

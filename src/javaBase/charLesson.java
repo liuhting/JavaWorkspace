@@ -1,7 +1,6 @@
 package javaBase;
 //Character类
 public class charLesson {
-
     public  static  void main(String[] args){
         Character ch = new Character('z');
         Character ch1 = 'f';
@@ -12,4 +11,5 @@ public class charLesson {
         System.out.println(Character.isDigit('5'));
         System.out.println(Character.toString('Y'));
     }
+
 }
