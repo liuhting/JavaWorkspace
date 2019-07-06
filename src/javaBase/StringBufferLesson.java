@@ -6,7 +6,7 @@
 */
 package javaBase;
 
-public class stringBufferLesson {
+public class StringBufferLesson {
     /*
     *@Date:10:13 2019/7/6
     *@Description:StringBuffer类的常用方法

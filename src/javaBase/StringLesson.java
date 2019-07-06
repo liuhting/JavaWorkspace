@@ -3,7 +3,7 @@
 @Date 18:10 2019/7/5
  */
 package javaBase;
-public class stringLesson {
+public class StringLesson {
 
     public static void stringMethod1(){
         char[] newArray ={'l','i','u','h','u','i'};

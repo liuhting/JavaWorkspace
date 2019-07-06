@@ -1,6 +1,6 @@
 package javaBase;
 //Character类
-public class charLesson {
+public class CharLesson {
     public  static  void main(String[] args){
         Character ch = new Character('z');
         Character ch1 = 'f';

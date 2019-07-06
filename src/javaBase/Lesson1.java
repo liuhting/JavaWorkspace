@@ -3,7 +3,7 @@ Math类的使用
  */
 package javaBase;
 
-public class lesson1 {
+public class Lesson1 {
 
     /*向上、向下取整的方法
      ceil()   返回大于等于( >= )给定参数的的最小整数，类型为双精度浮点型。
