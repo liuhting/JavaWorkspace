@@ -1,7 +1,7 @@
 /*
 Math类的使用
  */
-package javaBase;
+package javabaseinfo;
 
 public class Lesson1 {
 

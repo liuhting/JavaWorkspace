@@ -4,7 +4,7 @@
 @Description: StringBuffer是线程安全的,所以用StringBuilder比较多；
               StringBuilder是线程非安全的，不能同步访问
 */
-package javaBase;
+package javabaseinfo;
 
 public class StringBufferLesson {
     /*

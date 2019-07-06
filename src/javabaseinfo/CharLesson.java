@@ -1,4 +1,4 @@
-package javaBase;
+package javabaseinfo;
 //Character类
 public class CharLesson {
     public  static  void main(String[] args){

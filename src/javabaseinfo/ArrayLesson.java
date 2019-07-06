@@ -3,7 +3,7 @@
 @Date:2019/7/6 10:28
 @Description:数组的使用
 */
-package javaBase;
+package javabaseinfo;
 
 public class ArrayLesson {
     public static void arrayMethod(String[] args) {
